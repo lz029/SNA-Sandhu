@@ -5,7 +5,7 @@ erstellt von Gruppe Indie (ss502@hdm-stuttgart.de)
 **Titel des Netzwerks:**
 Kollaborationen Indie
 
-## Inhalt
+## Inhalt   
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
 - Codebuch.rm (Codierung der Datensätze)
@@ -23,13 +23,13 @@ Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*.
 codiert nach Anfangsbuchstaben der Künstler_innen und Bands, jede ID entspricht einer Künster_in oder Band
 
 **weight**  
-Beziehungsstärke 
-4 = gemeinsames Album
-3 = Feature (Gemeinsamer Song) 
-2 = gemeinsames Musiklabel
+Beziehungsstärke    
+4 = gemeinsames Album   
+3 = Feature (Gemeinsamer Song)    
+2 = gemeinsames Musiklabel   
 1 = gemeinsam auf der Bühne gestanden (Support/Vorband)
 
-**year**
+**year**   
 Jahreszahl der Kooperation als YYYY
 
 # NODE-Attribute  
@@ -37,19 +37,19 @@ Jahreszahl der Kooperation als YYYY
 **id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten
 
-**Name**
+**Name**   
 Name der Band
 
-**Anzahl Personen**
+**Anzahl Personen**   
 Anzahl der Bandmitglieder
 
-**Musiklabel**
+**Musiklabel**   
 Aktuelles und frühere Musiklabel der Band oder der Künster_in
 
-**Instagram-Follower**
+**Instagram-Follower**   
 Anzahl der Instagram-Follower_innen zum Stichtag 31.01.2021
 
-**Hörer auf Spotify**
+**Hörer auf Spotify**   
 Monatliche Hörer_innen auf Spotify zum Stichtag 31.01.2021
 
 ##
